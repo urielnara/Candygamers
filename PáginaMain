@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Gamer Candy's. Dulces Gamer</title>
+</head>
+<body>
+<h1>BIENVENIDO A GAMER CANDY'S</h1>
+
+<h2>introducción:</h2>
+<div style="float = rigth">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDTo5WWxX6qbo2i3EovebQpfX3FnI8l_axg&usqp=CAU" width= "150" height= "150" alt= "Control de Xbox one de dulce" />
+</div>
+<p>En esta web podrás comprar diferentes dulces, galletas y Cupcakes.<br />
+El envío es gratis y seguro.</p>
+
+<h3>Contáctanos</h3>
+<p>Si quieres más información visita nuestra página (www.dulcesgamer.com) lo esperamos</p>
+</body>
+</html>
